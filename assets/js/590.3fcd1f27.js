@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkcyberloafing"]=self["webpackChunkcyberloafing"]||[]).push([[590],{39590:function(n,e,t){t.r(e),t.d(e,{default:function(){return s}});var r=function(){var n=this;n._self._c;return n._m(0)},u=[function(){var n=this,e=n._self._c;return e("div",[e("h2",[n._v("照片")])])}],a={name:"CyberloafingPhotos",data(){return{}},mounted(){},methods:{}},f=a,l=t(81656),o=(0,l.A)(f,r,u,!1,null,"669a709e",null),s=o.exports}}]);
+//# sourceMappingURL=590.3fcd1f27.js.map
